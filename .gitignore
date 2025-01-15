@@ -1,0 +1,3 @@
+# .gitignore -tell git which files to ignore
+_pycatche_/
+
